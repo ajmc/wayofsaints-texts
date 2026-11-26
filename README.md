@@ -1,36 +1,23 @@
 # Way of Saints texts
 
-Public-domain Catholic texts transcribed and corrected from scans of the printed books, for
-[Way of Saints](https://wayofsaints.com). Each folder holds one book, with a README that says which edition and
-scan it comes from, how it was made, and what may still be wrong.
+Public-domain Catholic texts, corrected and structured from scans of the printed books by Andrew McAlorum
+([ORCID 0009-0001-0877-2043](https://orcid.org/0009-0001-0877-2043)) for [Way of Saints](https://wayofsaints.com).
 
-| Folder | Book |
-|---|---|
-| [raccolta-1910](raccolta-1910/) | *The Raccolta* (Burns & Oates, 1910): 73 prayers transcribed from the scan, and an unchecked OCR draft of the whole book |
-| [butler-lives-1894](butler-lives-1894/) | *Lives of the Saints, with Reflections for Every Day in the Year* (Benziger, 1894): corrected from the scans, not yet proofread |
-| [challoner-meditations](challoner-meditations/) | Challoner, *Meditations for Every Day in the Year* (1753): corrected from the scans, not yet proofread |
-| [missal-1916](missal-1916/) | *The Mass Every Day of the Year* (Kenedy, 1916), the Missal's English: corrected from the scans, not yet proofread |
-| [liturgical-year](liturgical-year/) | Dom Prosper Guéranger, O.S.B., *The Liturgical Year: The Seasons*: corrected from the scans, not yet proofread |
-| [roman-catechism](roman-catechism/) | The Council of Trent, *The Roman Catechism*: corrected from the scans, not yet proofread |
-| [way-of-perfection](way-of-perfection/) | St. Teresa of Ávila, *The Way of Perfection*: corrected from the scans, not yet proofread |
-| [dark-night](dark-night/) | St. John of the Cross, *The Dark Night of the Soul*: corrected from the scans, not yet proofread |
-| [ascent](ascent/) | St. John of the Cross, *The Ascent of Mount Carmel*: corrected from the scans, not yet proofread |
-| [true-devotion](true-devotion/) | St. Louis de Montfort, *True Devotion to Mary*: corrected from the scans, not yet proofread |
-| [visits](visits/) | St. Alphonsus Liguori, *Visits to the Blessed Sacrament*: corrected from the scans, not yet proofread |
+Each text now has its own repository, so that each can be versioned, cited and archived with its own DOI. Each
+one's README gives the edition and scans it comes from, why the text adds to the scans, how it was made, how much
+cleaner it is than the scans' own OCR, and what may still be wrong.
 
-## How the texts were made
+| Text |
+|---|
+| [The Raccolta (1910): 73 prayers transcribed from the scan](https://github.com/ajmc/raccolta-1910) |
+| [Lives of the Saints, with Reflections for Every Day in the Year (Benziger, 1894)](https://github.com/ajmc/butler-lives-of-the-saints-1894) |
+| [Challoner's Meditations for Every Day in the Year](https://github.com/ajmc/challoner-meditations) |
+| [The Mass Every Day of the Year (1916): the Roman Missal in English](https://github.com/ajmc/mass-every-day-1916) |
+| [Guéranger, The Liturgical Year: the opening chapters of each season](https://github.com/ajmc/gueranger-liturgical-year-seasons) |
+| [St. Teresa of Ávila, The Way of Perfection (Stanbrook translation, 1911)](https://github.com/ajmc/teresa-way-of-perfection) |
+| [St. John of the Cross, The Dark Night of the Soul (Lewis–Zimmerman translation)](https://github.com/ajmc/john-of-the-cross-dark-night) |
+| [St. John of the Cross, The Ascent of Mount Carmel (Lewis–Zimmerman translation)](https://github.com/ajmc/john-of-the-cross-ascent) |
+| [St. Louis de Montfort, True Devotion to Mary (Faber translation, 1863)](https://github.com/ajmc/montfort-true-devotion) |
+| [St. Alphonsus Liguori, Visits to the Blessed Sacrament (Coffin translation, 1855)](https://github.com/ajmc/liguori-visits-blessed-sacrament) |
 
-Each text comes from the OCR of one or more scans of a printed edition. Where there are several scans of
-the same edition, they are compared word by word and the majority reading kept, which removes most OCR errors.
-None has yet been proofread in full by a person, and the 73 prayers of the Raccolta are transcribed but not yet proofread a second time. Each folder's README
-gives the scans, the method, and an estimate of the errors that remain.
-
-## Licence
-
-The texts are released under CC0 1.0 (see `LICENSE`): use them freely. A credit and a link to
-https://wayofsaints.com are welcome. To cite a release, use "Cite this repository" on GitHub, or the DOI on its
-Zenodo page.
-
-## Corrections
-
-Corrections are welcome as an issue or a pull request. Please give the page of the scan.
+All are released under CC0 1.0.
