@@ -5,7 +5,7 @@ type: dataset
 authors:
   - family-names: McAlorum
     given-names: Andrew
-    # orcid: https://orcid.org/0000-0000-0000-0000   (add once the ORCID record exists)
+    orcid: "https://orcid.org/0009-0001-0877-2043"
 license: CC0-1.0
 url: "https://wayofsaints.com"
 keywords:
