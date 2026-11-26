@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these texts, please cite them as below."
+title: "Way of Saints texts: public-domain Catholic texts transcribed from scans"
+type: dataset
+authors:
+  - family-names: McAlorum
+    given-names: Andrew
+    # orcid: https://orcid.org/0000-0000-0000-0000   (add once the ORCID record exists)
+license: CC0-1.0
+url: "https://wayofsaints.com"
+keywords:
+  - Catholic
+  - prayer
+  - Raccolta
+  - transcription
+  - public domain
+  - digital humanities
